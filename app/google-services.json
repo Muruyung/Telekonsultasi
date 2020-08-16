@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861383563639",
+    "firebase_url": "https://realtimetelekonsultasi160820.firebaseio.com",
+    "project_id": "realtimetelekonsultasi160820",
+    "storage_bucket": "realtimetelekonsultasi160820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861383563639:android:26612ea44e3fd2d578a972",
+        "android_client_info": {
+          "package_name": "com.example.telekonsultasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861383563639-3he0eujht5ho198fm7enh9g43jmeodug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDAqXSOHwkFhMJgnNLpvqfcUjQDz0HwP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861383563639-3he0eujht5ho198fm7enh9g43jmeodug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
